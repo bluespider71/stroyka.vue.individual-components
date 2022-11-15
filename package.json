@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/bluespider71.vuejs-lahx1a6c",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 6WRswh1t0MeGcBhrtxEj --open"
+  },
+  "devDependencies": {
+    "vue": "2.7.13"
+  }
+}
